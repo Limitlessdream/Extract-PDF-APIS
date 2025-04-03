@@ -1,7 +1,5 @@
 <h1 align="center"> PDF Extractor API </h1>
 
-![PDF Extractor API](https://socialify.git.ci/king04aman/PDF-Extractor-API/image?description=1&font=Jost&language=1&logo=https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%3A%2F%2Favatars.githubusercontent.com%2Fu%2F62813940%3Fv%3D4%26h%3D250%26w%3D250%26fit%3Dcover%26mask%3Dcircle%26maxage%3D7d&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark)
-
 ## Overview
 
 The PDF Extractor API is a FastAPI-based application designed to extract text and metadata from PDF files. It supports authentication using JWT tokens and rate limiting to manage API usage. The API allows users to upload PDF files, extract headers and items based on provided keywords, and handle responses in a user-friendly format.
